@@ -153,6 +153,10 @@
     alt="ESLint"
   >
   <img
+    src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"
+    alt="Prettier"
+  >
+  <img
     src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
     alt="Vite"
   >
