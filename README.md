@@ -1,8 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-<br>
-<br>
-<h2 style="border: none; padding-bottom: 0; margin-bottom: 10px">💫 About Me:</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="margin-bottom: 10px">
+<!-- <h2>💫 About Me:</h2> -->
+<h2 style="border-bottom: none; margin: 0; padding: 0;  margin-top: 30px;">💫 About Me:</h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="margin-bottom: 15px; margin-top: 15px">
 <p>
   Welcome to my page
   <br>
@@ -17,8 +16,8 @@
   ⚡ Fun fact I am a nyctophile
 </p>
 <!-- <h2>🌐 Social Media: </h2> -->
-<h2 style="border: none; padding-bottom: 0; margin-bottom: 10px">🌐 Social Media: </h2>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="margin-bottom: 10px">
+<h2 style="border-bottom: none; margin: 0; padding: 0; margin-top: 30px;">🌐 Social Media: </h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="margin-bottom: 15px; margin-top: 15px">
 <p>
   <a href="https://discord.gg/https://discord.com/users/915599643193258015">
     <img
@@ -41,8 +40,8 @@
 </p>
 <br>
 <!-- <h2>💻 Tech Stack:</h2> -->
-<h2 style="border: none; padding-bottom: 0; margin-bottom: 10px">💻 Tech Stack:</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="margin-bottom: 10px">
+<h2 style="border-bottom: none; margin: 0; padding: 0:  margin-top: 30px;">💻 Tech Stack:</h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="margin-top: 15px">
 <p>
   <h3>Currently working with:</h3>
   <img
